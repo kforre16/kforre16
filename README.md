@@ -11,7 +11,7 @@ I am a highly motivated IT professional with a foundational understanding of IT 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -59,7 +59,7 @@ I am a highly motivated IT professional with a foundational understanding of IT 
 </div>
 
 ## Projects
-- Active Directory Project
+- <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active-Directory Lab</a>
 <!--
 **kforre16/kforre16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
