@@ -47,6 +47,11 @@ I am a highly motivated IT professional with a foundational understanding of IT 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Packet Capture
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-000000?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -54,6 +59,7 @@ I am a highly motivated IT professional with a foundational understanding of IT 
 
 ## Projects
 - <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active-Directory Lab</a>
+- <a href="https://github.com/kforre16/Wireshark-Lab">Wireshark Lab</a>
 <!--
 **kforre16/kforre16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
