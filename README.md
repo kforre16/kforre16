@@ -10,7 +10,7 @@ I am a highly motivated IT professional with a foundational understanding of IT 
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Active Directory Administration | <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Threat Simulation         | <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Network Packet Capture & Event Analysis         | <a href="https://github.com/kforre16/Wireshark-Lab">Active Directory Lab</a>|
+| Network Packet Capture & Event Analysis         | <a href="https://github.com/kforre16/Wireshark-Lab">Wireshark Lab</a>|
 
 ## Tools
 
