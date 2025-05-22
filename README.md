@@ -7,10 +7,11 @@ I am a highly motivated IT professional with a foundational understanding of IT 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Active Directory Administration | <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Threat Simulation         | <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/kforre16/Active-Directory-Lab">Active Directory Lab</a>|
+| Active Directory Administration | <a href="https://github.com/kforre16/Active-Directory-Lab">Active Directory Lab</a>|
+| Threat Simulation         | <a href="https://github.com/kforre16/Active-Directory-Lab">Active Directory Lab</a>|
 | Network Packet Capture & Event Analysis         | <a href="https://github.com/kforre16/Wireshark-Lab">Wireshark Lab</a>|
+| IDS configuration, analysis, and forensics        | <a href="https://github.com/kforre16/Snort-Lab">Snort Lab</a>|
 
 ## Tools
 
@@ -52,6 +53,11 @@ I am a highly motivated IT professional with a foundational understanding of IT 
     <img src="https://img.shields.io/badge/-Wireshark-000000?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+### IDS Software
+<div>
+    <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=snort&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -60,6 +66,7 @@ I am a highly motivated IT professional with a foundational understanding of IT 
 ## Projects
 - <a href="https://github.com/kforre16/Active-Directory-Lab/tree/main">Active-Directory Lab</a>
 - <a href="https://github.com/kforre16/Wireshark-Lab">Wireshark Lab</a>
+- <a href="https://github.com/kforre16/Snort-Lab">Snort Lab</a>
 <!--
 **kforre16/kforre16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
